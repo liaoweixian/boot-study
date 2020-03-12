@@ -6,12 +6,13 @@
         <groupId>com.lwx.practice</groupId>
         <artifactId>boot-study</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath>../</relativePath>
     </parent>
     <groupId>com.lwx.practice</groupId>
     <artifactId>web</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>web</name>
+    <packaging>jar</packaging>
     <description>Demo project for Spring Boot</description>
 
     <properties>
